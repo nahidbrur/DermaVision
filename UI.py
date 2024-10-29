@@ -3,7 +3,7 @@ import tensorflow as tf
 from PIL import Image
 import numpy as np
 
-model_path = './checkpoint/densenet_model.h5'
+model_path = './checkpoint/dermavision-densenet201.h5'
 # Load your trained model
 model = tf.keras.models.load_model(model_path)
 

@@ -153,7 +153,7 @@ To run our UI type
 ```bash
 streamlit run UI.py
 ```
-If you want to use our pretrained model, please download it from this [huggingface]() and save it under checkpoint folder then change the path of the **model_path** in [UI.py](UI.py)
+If you want to use our pretrained model, please download it from this [huggingface](https://huggingface.co/nahidbrur/dermavision-densenet201/tree/main) and save it under checkpoint folder then change the path of the **model_path** in [UI.py](UI.py)
 
 ---
 
